@@ -22,6 +22,8 @@ Hey, I'm Adithya M S 👋🏻. I am a Computer Science Engineering student at PE
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adithya-S-Bhat&layout=compact&show_icons=true&theme=tokyonight" alt="Github Stats of Adithya M S"/>
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=adithya-s-bhat&theme=github" alt="Contribution Graph of Adithya M S"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-bhat&theme=tokyonight" alt="Github Stats of Adithya M S"/>
+  
 ## Reach Me On:
 
-⚫ LinkedIn: <a href = "https://www.linkedin.com/in/adithya-m-s/">https://www.linkedin.com/in/adithya-m-s/</a>
+⚫ LinkedIn: <a href = "https://www.linkedin.com/in/adithya-m-s/">https://www.linkedin.com/in/adithya-m-s/</a>  
+⚫ Website: <a href = "https://adithya-s-bhat.github.io/">https://adithya-s-bhat.github.io/</a>

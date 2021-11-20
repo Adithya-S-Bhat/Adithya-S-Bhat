@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align=right src="https://komarev.com/ghpvc/?username=Adithya-S-Bhat&label=Profile%20views" alt="Adithya M S" />
 
 <!--
 **Adithya-S-Bhat/Adithya-S-Bhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, I'm Adithya M S 👋🏻. I am a Computer Science Engineering student at PES University, Bangalore. I love working on ML, App and Web Development projects. 
+Hey, I'm Adithya M S 👋🏻, a Computer Science Engineering student at PES University, Bangalore. I love working on ML, App and Web Development projects. 
 
 ## Github Stats 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-S-Bhat&hide=cmake&langs_count=3&theme=radical" />
